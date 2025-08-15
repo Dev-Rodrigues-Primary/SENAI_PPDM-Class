@@ -23,4 +23,16 @@ export const styles = StyleSheet.create({
         width:'100%',
         height:'100%'
     },
+
+    botao3:{
+        backgroundColor:'#fe0000',
+        width:'100%',
+        height:'100%'
+    },
+
+    botao4:{
+        backgroundColor:'#00ffff',
+        width:'100%',
+        height:'100%'
+    },
 })
