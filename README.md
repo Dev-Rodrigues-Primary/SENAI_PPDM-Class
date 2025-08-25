@@ -1,6 +1,5 @@
 # 📱 SENAI Armando de Arruda Pereira - Test Repo - PPDM
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/yourusername/yourrepo?color=blue&style=flat-square) ![GitHub Language](https://img.shields.io/github/languages/top/yourusername/yourrepo?color=orange&style=flat-square) ![Last Commit](https://img.shields.io/github/last-commit/yourusername/yourrepo?color=green&style=flat-square)
 
 ---
 
@@ -47,12 +46,3 @@
 6. 🔃 Abrir Pull Request
 
 ---
-
-## ✅ Status
-
-> Repositório inicializado para testes e aprendizado.
-
----
-
-> _“Código limpo é código feliz.”_ 🚀
-
